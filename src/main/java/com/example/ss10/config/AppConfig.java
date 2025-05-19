@@ -18,7 +18,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
         "com.example.ss10.repository"
 })
 public class AppConfig {
-    private String HOST_NAME = "dlnpapflp";
+    private String HOST_NAME = "thecuong";
     private String API_KEY = "137312587761991";
     private String API_SECRET = "jyOeddX7K6YunyJ-5MwUZrM1SXA";
 
